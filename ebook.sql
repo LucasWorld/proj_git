@@ -1,2 +1,2 @@
-#This is sql commands for ebook proj1.
-
+create database ebook;
+use ebook;
