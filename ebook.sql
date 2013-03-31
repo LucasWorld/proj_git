@@ -1,2 +1,2 @@
-#This is sql commands for ebook proj1:wq
+#This is sql commands for ebook proj1.
 
